@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.grid > img{
+    @apply rounded-sm;
+}
